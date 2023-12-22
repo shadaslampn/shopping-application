@@ -4,7 +4,7 @@ name: "Prod Image Build & Deployment"
 on:
   push:
     branches:
-      - PROD
+      - prod
 
 jobs:
 
